@@ -49,6 +49,10 @@ This project aims to enhance workplace safety for AEP by analyzing safety incide
 ## Contributing
 Contributions are welcome. Please open an issue or create a pull request for suggestions and improvements.
 
+## Google Collab Links
+Sentiment analysis of the comments: https://colab.research.google.com/drive/1QDFflnyB78hwSC9HYAxvzGvwhU8tLiun#scrollTo=I5u5RKRHcyLG
+SCL model classification using DistilBERT: https://colab.research.google.com/drive/1_hyN037OEXjXImpSsvCZGP-ut3lOQDlq?usp=sharing
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
