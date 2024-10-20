@@ -1,10 +1,9 @@
 # Safety Analysis Project - AEP
 
 ## Project Overview
-This project aims to enhance workplace safety for AEP by analyzing safety incidents and providing actionable insights. We utilized data-driven methods, including a Safety Risk Matrix and advanced visualizations, to identify trends, classify risks, and improve safety measures for field and line workers. The analysis is supported by the use of DistilBERT, a large language model, to extract insights from safety observations efficiently.
+This project aims to enhance workplace safety for AEP by analyzing safety incidents and providing actionable insights. We utilized data-driven methods, and advanced visualizations, to identify trends, classify risks, and improve safety measures for field and line workers. The analysis is supported by the use of DistilBERT, a large language model, to extract insights from safety observations efficiently.
 
 ## Features
-- **Safety Risk Matrix**: Categorizes safety incidents by frequency and severity, highlighting areas that require immediate intervention.
 - **Data Visualizations**:
   - **Cumulative Safety Observations Over Time**: Line chart showing progress in identifying safety issues.
   - **SCL Model Classifications**: Bar graph displaying incident distribution across LSIF, HSIF, etc.
