@@ -37,13 +37,10 @@ This project aims to enhance workplace safety for AEP by analyzing safety incide
    ```bash
    git clone <repository-url>
    ```
-2. **Install Dependencies**: Make sure you have Python installed, then run:
+2. **Install Dependencies and Start**:
    ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Analysis**: Execute the analysis scripts to generate visualizations and insights.
-   ```bash
-   python safety_analysis.py
+   npm install
+   npm start
    ```
 
 ## Usage Instructions
